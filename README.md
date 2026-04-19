@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Overfitting models less, Learning more 🚀</p>
+<p align="left">Code. Train. Improve. Repeat. 🚀</p>
 
 ###
 
