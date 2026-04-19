@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Aspiring Data Scientist | Machine Learning Engineer</p>
+<p align="left">Overfitting models less, Learning more 🚀</p>
 
 ###
 
